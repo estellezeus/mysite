@@ -1,0 +1,59 @@
+:root{
+    --primary-color: #59114d;
+    --secondary-color: #AB92BF;
+    --thrird-color: #AFC1D6;
+    --fourth-color: #CEF9F2;
+    --fifth-color: #D6CA98;
+}
+
+.bg-primary{
+    background-color: var(--primary-color) !important;
+}
+
+.bg-light {
+    background-color: var(--secondary-color) !important;
+}
+.text-primary {
+    color: var(--primary-color) !important;
+}
+.btn-primary:hover {
+    box-shadow: inset 0 0 0 0 var(--primary-color);
+}
+.btn-primary:hover {
+    color: #000;
+    background-color: var(--secondary-color);
+    border-color: var(--primary-color);
+}
+.btn-primary {
+    background-color: var(--fifth-color);
+    border-color: var(--fifth-color);
+}
+a {
+    color: var(--fifth-color);
+}
+a:hover {
+    color: var(--thrird-color);
+}
+
+.bg-header__books {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url('../img/estelle_Book_summary_index.png') center center no-repeat;
+    background-size: cover;
+}
+
+.breadcrumb-book-detail{
+    cursor: default;
+    color: var(--thrird-color);
+}
+
+.rounded-15{
+    border-radius: 15px;
+}
+
+.rounded-25{
+    border-radius: 25px;
+}
+
+.rounded-19-end{
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px ;
+}
