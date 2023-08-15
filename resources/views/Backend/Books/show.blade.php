@@ -41,7 +41,8 @@
                                {{$book->author}}
                             </h2>
                             <h4 class="mt-0">
-                                <small>{{$book->category->name}} </small>
+                                <small>{{$book->category->name}} </small><br>
+                                <small>{{$book->read_date}} </small>
                             </h4>
                         </div>
 

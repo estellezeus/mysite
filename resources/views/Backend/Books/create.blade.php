@@ -70,6 +70,10 @@
                                     @endforelse
                                 </select>
                             </div>
+                            <div class="form-group">
+                                <label for="readDate">Date de lecture</label>
+                                <input type="date" id="readDate" class="form-control" name="read_date">
+                            </div>
 
                         </div>
                         <!-- /.card-body -->
