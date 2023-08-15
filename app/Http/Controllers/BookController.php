@@ -48,7 +48,7 @@ class BookController extends Controller
             $inputs['image'] = $imageName;
             $this->bookRepository->store($inputs);
 
-            return redirect(route('books.index'))->with(["status"=>"success", "message"=>"Livre a été créé !"]);
+            return redirect(route('books.index'))->with(["status"=>"success", "message"=>"Le livre a été créé !"]);
         }catch (\Exception $e){
             //dd($e);
             return redirect()->back()->with(["status"=>"error", "message"=>$e->getMessage()]);
