@@ -103,7 +103,7 @@ class BookController extends Controller
                 if($request->file('image')){
                     $bookCouv = $request->file('image');
                     $imageName = str_replace(" ", "_",$request['title']).'.'.$request->file('image')->getClientOriginalExtension();
-                    $path = $bookCouv->storePubliclyAs('gibooks', $imageName);
+                    $path = $bookCouv->storePubliclyAs('books', $imageName);
                     $inputs['image'] = $path;
                 }
 
