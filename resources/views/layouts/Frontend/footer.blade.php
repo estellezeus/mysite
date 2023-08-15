@@ -27,7 +27,7 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open me-2"></i>
-                            <p class="mb-0">zeukengestelle@gmail.com</p>
+                            <p class="mb-0">contact@estelle-z.com</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone me-2"></i>

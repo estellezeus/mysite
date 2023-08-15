@@ -8,7 +8,7 @@ $segments = \Request::segments();
             <div class="d-inline-flex align-items-center" style="height: 45px;">
                 <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Yaoundé, CMR</small>
                 <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+237 693 93 10 10</small>
-                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>zeukengestelle@gmail.com</small>
+                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>contact@estelle-z.com</small>
             </div>
         </div>
         <div class="col-lg-4 text-center text-lg-end">
