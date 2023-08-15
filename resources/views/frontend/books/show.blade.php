@@ -8,7 +8,7 @@
                 <div class="col-lg-8">
                     <!-- Blog Detail Start -->
                     <div class="mb-5">
-                        <img class="img-fluid w-100 rounded mb-5" src="{{ asset("storage/app/".$book->image) }}" alt="">
+                        <img class="img-fluid w-100 rounded mb-5" src="{{ asset("storage/".$book->image) }}" alt="">
                         <h1 class="mb-4">{{$book->title}}</h1>
                         <p>{!! $book->summary !!}</p>
                     </div>
@@ -112,7 +112,7 @@
                         @forelse($books as $b)
                             @if($b->id !== $book->id)
                         <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="{{ asset("storage/app/".$b->image) }}" style="width: auto; height: 100px; object-fit: cover;" alt="">
+                            <img class="img-fluid" src="{{ asset("storage/".$b->image) }}" style="width: auto; height: 100px; object-fit: cover;" alt="">
                             <a href="{{route('book-details', $b->id)}}" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0" style="width:100%">
                                 {{$b->title}}
                             </a>
