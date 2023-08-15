@@ -17,6 +17,8 @@ use App\Http\Controllers\HomeController;
 */
 
 Route::get('/', [HomeController::class, 'welcome'])->name('welcome');
+Route::post('/donate', [HomeController::class, 'donate'])->name('donate');
+Route::post('/check-donate-status', [HomeController::class, 'checkTransactionStatus'])->name('check-donate-status');
 Route::get('/books-list', [HomeController::class, 'booksList'])->name('books');
 Route::get('/books-detail/{id}', [HomeController::class, 'bookDetails'])->name('book-details');
 

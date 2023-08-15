@@ -57,3 +57,9 @@ a:hover {
     border-top-right-radius: 18px;
     border-bottom-right-radius: 18px ;
 }
+.red-text{
+    color: red;
+}
+.modal-header{
+    background-color: #ab92bf;
+}

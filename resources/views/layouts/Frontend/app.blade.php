@@ -5,8 +5,9 @@
     <meta charset="utf-8">
     <title>Estelle - Learning Journey</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Learning Web Devoloppment, Data analysis, Books summary" name="keywords">
+    <meta content="Learning Web Development, Data analysis, Books summary" name="keywords">
     <meta content="This is my learning journey of what i love and what i'm working on" name="description">
+    <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <!-- Favicon -->
     <link href="{{asset('frontend/assets/img/favicon.ico')}}" rel="icon">
@@ -32,6 +33,8 @@
 
     <!-- Personal Stylesheet -->
     <link href="{{asset('frontend/assets/css/my_style.css')}}" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css"/>
 
     @yield('css')
 </head>
@@ -70,6 +73,10 @@
 
 <!-- Template Javascript -->
 <script src="{{asset('frontend/assets/js/main.js')}}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<!-- Donate js -->
+<script src="{{asset('frontend/assets/js/donate.js')}}"></script>
 
 @yield('js')
 </body>
