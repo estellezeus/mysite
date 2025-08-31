@@ -23,16 +23,16 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt me-2"></i>
-                            <p class="mb-0">Yaoundé, CMR</p>
+                            <p class="mb-0">Montréal, CA</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open me-2"></i>
-                            <p class="mb-0">contact@estelle-z.com</p>
+                            <p class="mb-0">essytelle@gmail.com</p>
                         </div>
-                        <div class="d-flex mb-2">
+                        <!--<div class="d-flex mb-2">
                             <i class="bi bi-telephone me-2"></i>
                             <p class="mb-0">+237 652 51 31 09</p>
-                        </div>
+                        </div> -->
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square me-2" href="https://twitter.com/EssyTelle"><i class="fab fa-twitter fw-normal"></i></a>
                             <a class="btn btn-primary btn-square me-2" href="https://www.linkedin.com/in/estelle-zeukeng-9b2391b8/"><i class="fab fa-linkedin-in fw-normal"></i></a>

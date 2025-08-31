@@ -6,9 +6,9 @@ $segments = \Request::segments();
     <div class="row gx-0">
         <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
             <div class="d-inline-flex align-items-center" style="height: 45px;">
-                <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Yaoundé, CMR</small>
-                <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+237 693 93 10 10</small>
-                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>contact@estelle-z.com</small>
+                <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Montréal, CA</small>
+                <!--<small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+237 693 93 10 10</small> -->
+                <small class="text-light"><i class="fa fa-envelope-open me-2"></i>essytelle@gmail.com</small>
             </div>
         </div>
         <div class="col-lg-4 text-center text-lg-end">
@@ -50,10 +50,10 @@ $segments = \Request::segments();
             </div>
             {{--<button type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></button>--}}
 
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop"
+            <!--<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop"
                     style="margin-left: 13px; border-radius: 21px">
                 Faire un don
-            </button>
+            </button> -->
         </div>
     </nav>
 
@@ -61,7 +61,7 @@ $segments = \Request::segments();
     <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="{{asset('frontend/assets/img/carousel-12.jpg')}}" alt="Image">
+                <img class="w-100" src="{{asset('frontend/assets/img/carousel-112.png')}}" alt="Image">
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Apprentissage - Pratique - Partage</h5>

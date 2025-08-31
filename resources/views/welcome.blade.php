@@ -67,27 +67,27 @@
                         <h1 class="mb-0">Apprendre, apprendre, pratiquer</h1>
                     </div>
                     <p class="mb-4">
-                        Je m'appelle Estelle. Je suis développeur web.
-                        Je me suis découverte un intérêt pour l'analyse de données, domaine que j'explore de façon personnelle avec les ressources en ligne. Mon objectif est de devenir une experte dans ce domaine,
+                        Je m'appelle Estelle. Je ingénieure de données.
+                        Je me suis découverte un intérêt pour la données, domaine que j'explore de façon personnelle avec les ressources en ligne. Mon objectif est de devenir une experte dans ce domaine,
                         apportant de la plus-value aux entreprises grâce aux traitements de leurs données et l'intégration des nouvelles technologies.
                         Je travaille à développer mes connaissances dans les domaines ci-dessous:
 
                     </p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>HTML 5, CSS 3, Bootstrap, Javascript, JQuery</h6>
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>PHP, Laravel</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Modélisation des données</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Python</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
                             <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>SQL</h6>
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Power BI, Excel</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Airflow, Apache Spark, Databricks</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
                             <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Communication, Résolution des problèmes</h6>
 
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Design thinking, Scrum</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Design thinking, Méthodes Agiles</h6>
                         </div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                         <div class="service-icon">
                             <i class="fa fa-chart-pie text-white"></i>
                         </div>
-                        <h4 class="mb-3">Analyse de données</h4>
+                        <h4 class="mb-3">Ingénierie de données</h4>
                         <a class="btn btn-lg btn-primary rounded-15" href="#">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -194,7 +194,7 @@
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Développement web</h4>
+                        <h4 class="mb-3">Cloud</h4>
                         <a class="btn btn-lg btn-primary rounded-15" href="#">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -205,7 +205,7 @@
                         <div class="service-icon">
                             <i class="fa fa-shield-alt text-white"></i>
                         </div>
-                        <h4 class="mb-3">Cyber Sécurité</h4>
+                        <h4 class="mb-3">Sécurité informatique</h4>
                         <a class="btn btn-lg btn-primary rounded-15" href="#">
                             <i class="bi bi-arrow-right"></i>
                         </a>
