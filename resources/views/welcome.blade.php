@@ -67,15 +67,15 @@
                         <h1 class="mb-0">Apprendre, apprendre, pratiquer</h1>
                     </div>
                     <p class="mb-4">
-                        Je m'appelle Estelle. Je ingénieure de données.
+                        Je m'appelle Estelle. Je suis ingénieure de données.
                         Je me suis découverte un intérêt pour la données, domaine que j'explore de façon personnelle avec les ressources en ligne. Mon objectif est de devenir une experte dans ce domaine,
-                        apportant de la plus-value aux entreprises grâce aux traitements de leurs données et l'intégration des nouvelles technologies.
+                        apportant de la plus-value aux entreprises grâce aux traitements de leurs données et à l'intégration des nouvelles technologies.
                         Je travaille à développer mes connaissances dans les domaines ci-dessous:
 
                     </p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Modélisation des données</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Modélisation des données (Dimensions, Faits, SCD, Graphes)</h6>
                             <h6 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Python</h6>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
